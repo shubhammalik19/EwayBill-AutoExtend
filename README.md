@@ -32,3 +32,16 @@ Please note that this script is configured to use Firefox as the web browser. If
 ## Disclaimer
 
 This script is intended for educational purposes and automating personal tasks. Please ensure you have the necessary permissions to automate interactions with the E-way bill system. The author is not responsible for any misuse or any issues arising from the use of this script.
+
+## Tags
+
+- **Python**
+- **Automation**
+- **Selenium**
+- **E-way Bill**
+- **GST**
+- **Web Scraping**
+- **Logistics**
+- **Billing**
+- **India**
+- **Taxation**
