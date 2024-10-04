@@ -28,5 +28,7 @@ To use this script, you need to have Python and Selenium WebDriver installed on 
 The script will then proceed to extend the E-way bills.
 Please note that this script is configured to use Firefox as the web browser. If you want to use a different browser, you will need to modify the WebDriver initialization in the script.
 
-## **Disclaimer** 
-Now, the **Steps** and **Disclaimer** sections are formatted correctly in Markdown, following the correct structure. You can copy this and paste it into your `README.md` file.
+
+## Disclaimer
+
+This script is intended for educational purposes and automating personal tasks. Please ensure you have the necessary permissions to automate interactions with the E-way bill system. The author is not responsible for any misuse or any issues arising from the use of this script.
