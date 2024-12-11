@@ -45,3 +45,6 @@ This script is intended for educational purposes and automating personal tasks. 
 - **Billing**
 - **India**
 - **Taxation**
+- **Ewaybill**
+- **Ewaybill Automation**
+- **Ewaybill Auto EXtend**
