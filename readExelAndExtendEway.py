@@ -127,7 +127,8 @@ class extendEwayBill:
                 self.driver.get( current_url)
 
         self.list_eway_cum_vehicle = self.getPrintEwayAndFindCurrentVehicle() 
-
+        
+        #sys.exit()
         print( json.dumps(self.list_eway_cum_vehicle, indent=4) )
 
         self.write_eway_to_file()
@@ -141,7 +142,7 @@ class extendEwayBill:
         for eway_nos_list in self.list_eway_cum_vehicle:
             link = 'https://ewaybillgst.gov.in/BillGeneration/EBPrint.aspx?cal=1'; #this is the link to print eway bill
             self.driver.get(link)
-
+    
             eway_no = eway_nos_list.get("EWB.No")
             # fill in ctl00_ContentPlaceHolder1_txt_ebillno id
             txt_ebillno = self.driver.find_element(By.ID, "ctl00_ContentPlaceHolder1_txt_ebillno")
@@ -151,7 +152,7 @@ class extendEwayBill:
             while True:
                 try:
                     btn_go.click()
-                    print("Go Button clicked")
+                    print("Go Button clicked For Vehicle")
                     break
                 except:
                     print("Go Button not clicked")
