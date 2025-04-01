@@ -116,7 +116,9 @@ class extendEwayBill:
         txt_password = self.driver.find_element(By.ID, "txt_password")
         txt_password.send_keys(self.txt_password)
 
-
+        while current_url == 'https://ewaybillgst.gov.in/Login.aspx':
+            current_url = self.driver.current_url
+            sleep(1)
         while current_url != "https://ewaybillgst.gov.in/MainMenu.aspx" :
             sleep(1)
             current_url = self.driver.current_url
