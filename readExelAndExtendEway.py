@@ -120,6 +120,10 @@ class extendEwayBill:
         while current_url != "https://ewaybillgst.gov.in/MainMenu.aspx" :
             sleep(1)
             current_url = self.driver.current_url
+            if current_url != "https://ewaybillgst.gov.in/MainMenu.aspx":
+                current_url = "https://ewaybillgst.gov.in/MainMenu.aspx"
+                self.driver.get( current_url)
+
         self.list_eway_cum_vehicle = self.getPrintEwayAndFindCurrentVehicle() 
 
         print( json.dumps(self.list_eway_cum_vehicle, indent=4) )
