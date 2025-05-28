@@ -323,8 +323,88 @@ extendEwayBill.py
 
 ---
 
+---
+
+## 👨‍💻 About the Creator
+
 **Created by Shubham Malik** | **Version 1.0** | **Last Updated: May 2025**
+
+### 🚛 **Mission Statement**
+*"Always committed to the development of Transport and Logistics Infrastructure to speed up the supply chain and help the country grow."*
+
+Shubham Malik is dedicated to building automation solutions that streamline India's logistics ecosystem, reduce bureaucratic delays, and empower businesses to focus on growth rather than paperwork. This tool represents a commitment to:
+
+- **🇮🇳 National Growth**: Supporting India's economic development through efficient logistics
+- **⚡ Supply Chain Acceleration**: Reducing manual processing time from hours to minutes  
+- **🏢 Business Empowerment**: Enabling small and large enterprises to manage compliance effortlessly
+- **🔬 Continuous Innovation**: Developing tools that adapt to India's evolving digital infrastructure
+
+### 🌟 **Vision for Indian Logistics**
+By automating repetitive government portal interactions, we aim to:
+- **📈 Boost Productivity**: Free up valuable human resources for strategic work
+- **🔄 Improve Accuracy**: Eliminate manual errors in compliance processes
+- **💰 Reduce Costs**: Lower operational overhead for transportation businesses
+- **🚀 Scale Operations**: Enable businesses to handle larger volumes efficiently
 
 ---
 
-*This tool is designed to assist legitimate business operations. Always ensure compliance with applicable laws and regulations when using automation tools with government portals.*
+## ⚖️ Legal Disclaimer & Terms of Use
+
+### 🛡️ **Creator's Liability Limitation**
+
+**IMPORTANT NOTICE**: This software is provided "AS IS" without warranty of any kind. The creator, Shubham Malik, shall NOT be held liable for:
+
+- **❌ Misuse of Software**: Any unauthorized, illegal, or non-compliant use of this tool
+- **🚫 Portal Violations**: Breach of GST portal terms of service by end users
+- **💸 Financial Losses**: Any direct or indirect financial damages resulting from software use
+- **📊 Data Issues**: Loss, corruption, or mishandling of user data
+- **🏛️ Legal Consequences**: Any legal action arising from improper usage
+- **⚡ System Failures**: Server downtime, network issues, or technical malfunctions
+
+### 📋 **User Responsibilities**
+
+By using this software, you agree to:
+
+1. **🔐 Authorized Access Only**: Use only your own legitimate GST credentials
+2. **📜 Compliance**: Ensure all activities comply with Indian GST laws and regulations  
+3. **🛡️ Security**: Protect your credentials and use secure systems
+4. **📊 Data Accuracy**: Verify all automated submissions for correctness
+5. **⚖️ Legal Accountability**: Accept full responsibility for all consequences of usage
+6. **🚫 No Misuse**: Refrain from any activities that violate portal terms or applicable laws
+
+### 🎯 **Intended Use Only**
+
+This tool is designed exclusively to assist **legitimate business operations** in:
+- ✅ Extending valid E-Way Bills before expiration
+- ✅ Streamlining compliance processes for authorized users
+- ✅ Reducing manual effort in routine logistics operations
+
+### 🚨 **Prohibited Activities**
+
+Users must NOT use this tool for:
+- ❌ Fraudulent transactions or false documentation
+- ❌ Accessing accounts without proper authorization  
+- ❌ Circumventing government security measures
+- ❌ Any activity that violates GST portal terms of service
+- ❌ Commercial misuse or unauthorized redistribution
+
+### 📞 **Support & Contact**
+
+For legitimate technical support or business inquiries:
+- **📧 Email**: [Include your contact information]
+- **🐛 Issues**: Report bugs with detailed logs and reproduction steps
+- **💡 Suggestions**: Feature requests for logistics automation improvements
+
+**Note**: Support is provided for legitimate use cases only. Requests related to circumventing security measures or unauthorized access will not be entertained.
+
+---
+
+### 🇮🇳 **Contributing to India's Digital Growth**
+
+*This tool represents our commitment to India's digital transformation in logistics. By using it responsibly, you contribute to building a more efficient, transparent, and growth-oriented supply chain ecosystem for our nation.*
+
+**Always ensure compliance with applicable laws and regulations when using automation tools with government portals.**
+
+---
+
+*Developed with 🧡 for Indian Transport & Logistics Industry*
